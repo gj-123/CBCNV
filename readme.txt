@@ -1,8 +1,8 @@
-1.Overview of CBCNV
+1 Overview of CBCNV
 A cluster-based approach for the discovery of copy number variations from next-generation sequencing data.
 In order to verify the validity of CBCNV,we use it to detect simulation data and real data compared with 
 several existing methods,which proves to be a very effective and reliable tool.
-2.Usage
+2 Usage
 2.1 Operating environment
 Our software is running on Linux system.It is developed using R and Python language.The users 
 need to install the SAMtools,R and Python to build environment before running the software.
