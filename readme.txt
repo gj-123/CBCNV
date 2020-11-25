@@ -17,7 +17,7 @@ The case and control samples are bam format file.
 The parameters are saved in the input file.The users can set relevant parameters according to needs and apply 
 them to different scenarios.
 The structure of the input file includes five rows of data,which represent case sample, control sample, 
-bin size, number of neighbors and abnormal weight, respectively.
+bin size, number of neighbors, abnormal weight and Python installation path, respectively.
 The values given in the input file are default parameters.
 2.4 Run command
 sh run.sh
